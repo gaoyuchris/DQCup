@@ -4,7 +4,7 @@ import java.util.LinkedList;
 
 /**
  * 
- * @author bloodyparadise
+ * @author bloodyparadisedd
  *
  */
 public class ColumnNames extends LinkedList<String>{
